@@ -5,7 +5,7 @@ I'm a software engineer specializing in Ruby and JavaScript. Every day, I'm lear
 <a href="http://www.linkedin.com/in/cam-creel">
   <img align="left" atl="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="camcreel.medium.com">
+<a href="https://camcreel.medium.com/">
   <img align="left" atl="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
